@@ -45,4 +45,4 @@
 
 ---
 
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+<h3 align="center"> 👾Gracias por visitar mi perfil👾 </h3>
