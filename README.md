@@ -38,8 +38,10 @@
 
 ### 📫 Cómo contactarme
 
-- 📩 Email: <code>tuemail@gmail.com</code>  
+- 📩 Email: <code>santy.cruz.esca@gmail.com</code>  
 - 💡 Proyecto actual: [NewSkill](https://github.com/SantyyFit/NewSkill)
+
+- Instagram: santyy.crz
 
 ---
 
