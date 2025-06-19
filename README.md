@@ -1,21 +1,21 @@
 <h1 align="center">👋 ¡Hola! Soy Santy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F9CF4&center=true&vCenter=true&lines=Desarrollador+web;Apasionado+por+el+aprendizaje;Fundador+de+NewSkill;PHP+%7C+MySQL+%7C+JS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F9CF4&center=true&vCenter=true&lines=Programador+junior+en+formación;Apasionado+por+la+tecnología+y+el+aprendizaje;Creador+de+NewSkill;PHP+%7C+MySQL+%7C+HTML+%7C+JS+%7C+CSS" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🔧 Actualmente desarrollando <strong>NewSkill</strong>, una plataforma para intercambiar habilidades entre personas.
-- 🧑‍💻 Me encanta crear sistemas web funcionales, rápidos y bien organizados.
-- 🎯 Siempre estoy buscando mejorar en programación y desarrollo personal.
-- 📘 También me interesa la psicología, el journaling y el crecimiento personal.
+- 🧑‍💻 Soy un programador junior que está en constante aprendizaje del desarrollo web.
+- 🚀 Actualmente estoy creando <strong>NewSkill</strong>, una red social para el intercambio de habilidades.
+- 💡 Me interesa construir proyectos útiles, prácticos y con impacto.
+- 📘 También me gusta el desarrollo personal, la lectura y el journaling.
 
 ---
 
-### 🛠️ Tecnologías que uso
+### 🛠️ Tecnologías con las que estoy trabajando
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -43,4 +43,4 @@
 
 ---
 
-<h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
+<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
